@@ -8,7 +8,7 @@
 <p>
   <a href="https://math.dev.br"><img alt="Website" src="https://img.shields.io/badge/math.dev.br-0f5c6e?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mathdevelop"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:web.matheusalves@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1a1d21?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:matheus@math.dev.br"><img alt="Email: matheus@math.dev.br" src="https://img.shields.io/badge/matheus@math.dev.br-1a1d21?style=for-the-badge"></a>
 </p>
 
 I've been building software for **10+ years**, 7 of them in e-commerce, at companies like **Itaú Unibanco**, **Loja Integrada**, and **Ambev**. I specialize in Micro Frontend architecture (Module Federation, Next.js, Angular), BFFs, and event-driven integrations with Kafka and AWS. I started my career in QA, and I still care about quality from end to end.
