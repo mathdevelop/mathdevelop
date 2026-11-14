@@ -24,7 +24,6 @@ I've been building software for **10+ years**, 7 of them in e-commerce, at compa
 ### 🔨 What I'm working on
 
 - **Micro Frontends at Loja Integrada:** the new Home in Hive, a Module Federation shell that will replace the legacy admin.
-- **[Ironbench](https://math.dev.br/ironbench-theme-docs/):** an original Shopify theme for hardware and industrial supply stores, built from scratch on Online Store 2.0, with SKU search, specification tables, bulk order, and B2B volume pricing.
 
 ### 🧰 Tech stack
 
