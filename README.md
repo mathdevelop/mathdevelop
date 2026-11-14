@@ -11,13 +11,13 @@
   <a href="mailto:matheus@math.dev.br"><img alt="Email: matheus@math.dev.br" src="https://img.shields.io/badge/matheus@math.dev.br-1a1d21?style=for-the-badge"></a>
 </p>
 
-I've been building software for **10+ years**, 7 of them in e-commerce, at companies like **Itaú Unibanco**, **Loja Integrada**, and **Ambev**. I specialize in Micro Frontend architecture (Module Federation, Next.js, Angular), BFFs, and event-driven integrations with Kafka and AWS. I started my career in QA, and I still care about quality from end to end.
+I've been building software for **10+ years**, 7 of them in e-commerce, at companies like **Itaú Unibanco**, **Loja Integrada**, and **Ambev**. I specialize in Micro Frontend architecture (Module Federation, Next.js, Angular), BFFs, and event-driven integrations with Kafka and AWS. I started in IT support and QA, and I still care about quality from end to end.
 
 ### 📈 Impact
 
 | | |
 |---|---|
-| **R$30M+** | in sales recovered by an abandoned cart product, across 73K+ orders |
+| **R$30M+** | in sales recovered by an abandoned cart product in its first year, across 73K+ orders |
 | **+31%** | average order value with Buy Together, the first Next.js Micro Frontend in a legacy admin |
 | **+6%** | conversion on overdraft-line sign-ups after an A/B test at Itaú |
 
@@ -79,7 +79,7 @@ I'm open to senior front-end and full-stack roles, remote or hybrid. Find me on 
 
 Sou **Engenheiro de Software Sênior**, Full Stack com foco em Front-end, com mais de 10 anos de desenvolvimento e 7 em E-commerce, passando por Itaú Unibanco, Loja Integrada e Ambev. Sou especialista em Micro Front-ends (Module Federation, Next.js, Angular), BFFs e integrações orientadas a eventos com Kafka e AWS.
 
-Alguns resultados: **R$ 30 mi+** recuperados com Carrinho abandonado, **+31%** no Ticket médio com o Compre Junto e **+6%** de conversão no Cheque Especial do Itaú com teste A/B.
+Alguns resultados: **R$ 30 mi+** recuperados no primeiro ano do Carrinho abandonado, **+31%** no Ticket médio com o Compre Junto e **+6%** de conversão no Cheque Especial do Itaú com teste A/B.
 
 Veja mais em [math.dev.br/pt](https://math.dev.br/pt/).
 
