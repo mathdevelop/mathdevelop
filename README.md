@@ -70,7 +70,7 @@ I've been building software for **10+ years**, 7 of them in e-commerce, at compa
 
 ### 🤝 Let's connect
 
-I'm open to senior front-end and full-stack roles, remote or hybrid. Find me on [LinkedIn](https://www.linkedin.com/in/mathdevelop) or see more at [math.dev.br](https://math.dev.br).
+Find me on [LinkedIn](https://www.linkedin.com/in/mathdevelop) or see more at [math.dev.br](https://math.dev.br).
 
 <details>
 <summary>🇧🇷 Em português</summary>
